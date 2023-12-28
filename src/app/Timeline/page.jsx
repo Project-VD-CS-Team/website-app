@@ -6,7 +6,8 @@ export default function Timeline(){
         <div className="container">
             <h1>Timeline Page</h1>
             <main>
-                <h2>Body Section</h2>
+                <h2>Body Section</h2> 
+                <h3> testing</h3>           
             </main>
         </div>
     )

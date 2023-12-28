@@ -1,4 +1,5 @@
 import Navbar from "./NavBar/navBar";
+import homepage from "./homepage.css"; 
 
 export default function Home() {
   return (
