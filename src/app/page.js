@@ -1,18 +1,14 @@
-import Landing from './Landing/landingpage'
-import Collab from './Collaborators/collabPage'
-import Research from './Research/researchPage'
-import Timeline from './Timeline/timeLinePage'
+import Navbar from "./NavBar/navBar";
 
 export default function Home() {
   return (
-    <div className='container'>
-      <main>
-        <h1>Visual Detector Home Page</h1>
-        <Landing></Landing>
-        <Collab></Collab>
-        <Research></Research>
-        <Timeline></Timeline>
-      </main>
-    </div>
+    <>
+      <div className="container">
+        <h1>Landing Page</h1>
+        <main>
+          <h2>Body Area</h2>
+        </main>
+      </div>
+    </>
   )
 }

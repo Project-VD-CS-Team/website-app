@@ -1,0 +1,17 @@
+.navSection > a{
+    inset: 0;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 2.5%;
+}
+
+a{
+    color: slategray;
+    transition: color 1s ease-in-out;
+    transition: font-size 0.5s;
+}
+
+a:hover{
+    font-size: 25px;
+    color: gray;
+}
