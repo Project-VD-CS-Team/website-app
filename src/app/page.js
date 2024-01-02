@@ -5,9 +5,12 @@ export default function Home() {
   return (
     <>
       <div className="container">
-        <h1>Landing Page</h1>
+        <h1>Welcome!</h1>
         <main>
-          <h2>Body Area</h2>
+          <h2>About us</h2>
+            <div class = "box">
+              <h3>Visual Detector is a device that is capable of detecting microbes through the use of computer vision and deep learning</h3>
+            </div>
         </main>
       </div>
     </>
