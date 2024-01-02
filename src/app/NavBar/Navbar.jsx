@@ -4,8 +4,8 @@ export default function Navbar(){
 
     return(
             <div className="navContainer">
-                <h1>Visual Detector</h1>
                 <section className = "navSection">
+                    <a hrefe ="/" id = "PageTitle">Visual Detector</a>
                     <a href="/">Home</a>
                     <a href="/Research">Research</a>
                     <a href = "/Collaborators">Collaborators</a>

@@ -5,13 +5,18 @@
     margin-right: 2.5%;
 }
 
+#PageTitle{
+    color:black;
+    transition: none;
+}
+
 a{
     color: slategray;
     transition: color 1s ease-in-out;
     transition: font-size 0.5s;
 }
 
-a:hover{
+a:hover:not(:first-child){
     font-size: 25px;
     color: gray;
 }
