@@ -1,0 +1,9 @@
+#pageBackground{
+    background-image: url("./Images/landing.jpg");
+    background-size: cover;
+    color: white;
+}
+.container{
+    margin-top: 100px;
+    backdrop-filter: blur(5px);
+}

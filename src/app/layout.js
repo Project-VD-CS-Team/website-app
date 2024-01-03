@@ -13,7 +13,7 @@ export let metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>
+      <body className={inter.className} id = "pageBackground">
         <Navbar></Navbar>
         <motion.animate>
           <motion.div initial = {{opacity: 0}} animate = {{opacity: 1, duration: 2.5}}>
