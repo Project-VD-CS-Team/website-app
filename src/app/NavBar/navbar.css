@@ -8,6 +8,8 @@
 #PageTitle{
     color:black;
     transition: none;
+    font-size: 40px;
+    backdrop-filter: blur(2px);
 }
 
 a{
