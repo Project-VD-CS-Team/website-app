@@ -8,13 +8,15 @@ export default function Collab(){
                 <div class="flex-container">
                     <div>Bala Rajakumar</div>
                     <div>Paul Colonia</div>
-                    <div>Vitaly Veksler</div>
+                    <div>Vitaly Vekslyer</div>
                     <div>Michael Hong</div>
-                    <div>Jin Tang</div>
-                    <div>Abdul </div>
-                    <div>Su tong</div>
-                    <div>test</div>
-                    <div>a</div>
+                    <div>Jing Tan</div>
+                    <div>Abdurisaq heban</div>
+                    <div>So Yin Tung</div>
+                    <div>Constantine Georgas</div>
+                    <div>Vincent Paulus</div>
+                    <div>Eric Fung</div>
+
                 </div>
             </main>
         </div>
