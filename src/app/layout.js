@@ -1,6 +1,5 @@
 import { Inter } from 'next/font/google'
 import './globals.css'
-import Navbar from './NavBar/navBar'
 import * as motion from "./animations"
 
 const inter = Inter({ subsets: ['latin'] })
@@ -14,7 +13,6 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className} id = "pageBackground">
-        <Navbar></Navbar>
         <motion.animate>
           <motion.div initial = {{opacity: 0}} animate = {{opacity: 1, duration: 2.5}}>
             {children}

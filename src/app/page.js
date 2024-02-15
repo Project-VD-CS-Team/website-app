@@ -20,6 +20,18 @@ export default function Home() {
                 </h3>
               </article>
           </section>
+          <section id = "howStatement">
+              <h2>How</h2>
+              <article id = "howBody">
+                TODO
+              </article>
+          </section>
+          <section id = "conclusionStatement">
+              <h2>TODO</h2>
+              <article id = "conclusionBody">
+                TODO
+              </article>
+          </section>
         </main>
       </div>
     </>
